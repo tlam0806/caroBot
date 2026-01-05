@@ -1,8 +1,15 @@
+
+https://github.com/user-attachments/assets/ce5acdfd-037b-443b-bc0e-f760e4f1ccfd
 # Caro Bot (Gomoku) — C++ / SFML 3
 
 An interactive Gomoku (Caro) game with an Bot opponent written in modern C++ and rendered with SFML 3.
 
-> **Demo:** (add a GIF/video link here)  
+> **Demo:** (add a GIF/video link here)
+> 
+
+https://github.com/user-attachments/assets/553c3b4c-817b-4b37-a395-3f6e7922e6b4
+
+
 > **Platform:** macOS (tested)
 
 ---
@@ -16,11 +23,11 @@ An interactive Gomoku (Caro) game with an Bot opponent written in modern C++ and
 
 ## Bot Overview
 
-The bot evaluates candidate moves using a heuristic evaluation and searches ahead using a game-tree algorithm (e.g., minimax + alpha-beta pruning).  
+The bot determine which player is winning by a heuristic evaluation function and searches few moves ahead using minimax algorithm (+ alpha-beta pruning) 
 Key ideas implemented / explored:
 - Board evaluation based on patterns (open/closed lines, threats, etc.)
 - Search depth control and move ordering
-- A genetic algorithm is used to optimize heuristic evaluation parameters via self-play, evolving successive generations of agents based on game outcomes.
+- A genetic algorithm is used to optimize heuristic evaluation weights via self-play, evolving successive generations of agents based on game outcomes.
 
 ---
 
