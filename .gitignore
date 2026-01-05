@@ -1,0 +1,19 @@
+git status
+# build artifacts
+build/
+dist/
+*.zip
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+
+
+
