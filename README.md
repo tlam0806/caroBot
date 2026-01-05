@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/ce5acdfd-037b-443b-bc0e-f760e4f1ccfd
 # Caro Bot (Gomoku) — C++ / SFML 3
 
 An interactive Gomoku (Caro) game with an Bot opponent written in modern C++ and rendered with SFML 3.
