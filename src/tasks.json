@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build tictactoe3",
+      "type": "shell",
+      "command": "bash",
+      "args": [
+        "-lc",
+        "SFML_PATH=$(brew --prefix sfml); clang++ main.cpp -I\"$SFML_PATH/include\" -L\"$SFML_PATH/lib\" -lsfml-graphics -lsfml-window -lsfml-system -std=c++17 -o tictactoe3"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": "$gcc"
+    }
+  ]
+}

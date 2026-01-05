@@ -1,0 +1,12 @@
+myOpenTwoWeight: 23811
+myClosedThreeWeight: 48869
+myOpenThreeWeight: 213469
+myClosedBrokenThreeWeight: 43939
+myOpenBrokenThreeWeight: 193015
+opOpenTwoWeight: 639
+opClosedThreeWeight: 10813
+opOpenThreeWeight: 103884
+opClosedFourWeight: 131981
+opBrokenFourWeight: 114236
+opClosedBrokenThreeWeight: 9804
+opOpenBrokenThreeWeight: 89970
