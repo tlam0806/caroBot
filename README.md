@@ -28,9 +28,11 @@ Key ideas implemented / explored:
 - Search depth control and move ordering
 - A genetic algorithm is used to optimize heuristic evaluation weights via self-play, evolving successive generations of agents based on game outcomes.
 
-
 ## Evaluation
-The bot was tested in informal matches against multiple human players and consistently achieved winning results.
+The bot was evaluated through informal human-vs-bot playtesting against multiple players. 
+In these sessions, the bot consistently outperformed human opponents.
+
+These results are based on informal testing and are not intended as a statistically rigorous benchmark.
 
 ---
 
