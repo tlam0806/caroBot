@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/553c3b4c-817b-4b37-a395-3f6e7922e6b4
 
 ## Bot Overview
 
-The bot determine which player is winning by a heuristic evaluation function and searches few moves ahead using minimax algorithm (+ alpha-beta pruning) 
+The bot determine which player is winning by a heuristic evaluation function and searches few moves ahead using minimax algorithm (+ alpha-beta pruning) to find optimal one.
 Key ideas implemented / explored:
 - Board evaluation based on patterns (open/closed lines, threats, etc.)
 - Search depth control and move ordering
