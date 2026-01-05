@@ -3,7 +3,7 @@
 
 An interactive Gomoku (Caro) game with an Bot opponent written in modern C++ and rendered with SFML 3.
 
-> **Demo:** (add a GIF/video link here)
+> **Demo:** 
 > 
 
 https://github.com/user-attachments/assets/553c3b4c-817b-4b37-a395-3f6e7922e6b4
