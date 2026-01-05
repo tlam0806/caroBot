@@ -4,6 +4,8 @@ build/
 dist/
 *.zip
 
+
+
 # macOS
 .DS_Store
 
@@ -17,3 +19,9 @@ CMakeFiles/
 
 
 
+
+
+.DS_Store
+.vscode/
+.VSCodeCounter/
+Untitled-*
